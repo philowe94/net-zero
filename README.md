@@ -17,7 +17,7 @@ Create a MongoDB instance.
 
 Set up the appropriate keys for your MongoDB instance in the config folder. For dev purposes you will need to create a new `keys_dev.js` file.
 
-Run `npm install`, `npm frontend-install`, and then `npm run dev`.
+Run `npm install`, `npm run frontend-install`, and then `npm run dev`.
 
 Navigate your browser to `localhost:3000`
 

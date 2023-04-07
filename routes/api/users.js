@@ -76,6 +76,7 @@ router.post("/register", (req, res) => {
         email: req.body.email,
         name: req.body.name,
         password: req.body.password,
+        pledges: [],
       });
 
       bcrypt.genSalt(10, (err, salt) => {
@@ -95,6 +96,7 @@ router.post("/register", (req, res) => {
                 keys.secretOrKey,
                 { expiresIn: 3600 },
                 (err, token) => {
+                  console.log(token);
                   res.json({
                     success: true,
                     token: "Bearer " + token,
