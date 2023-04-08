@@ -3,7 +3,7 @@
 Net Zero is an easy-to-use pledge tracker that reminds and motivates you to commit to climate-change-curbing efforts every day and track your progress.
 With our minimal and intuitive design, Net Zero pledge tracker is here to make your building and monitoring pledges become more effective and completely effortless. Together we have the power to get to net zero carbon emissions by 2050.
 
-[Net Zero](https://netzero-application.herokuapp.com/)
+[Net Zero](https://netzero.herokuapp.com/)
 
 Pledge Index            |  Profile
 :-------------------------:|:-------------------------:

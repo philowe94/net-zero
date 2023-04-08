@@ -16,7 +16,7 @@ const AboutUs = () => {
       <div className="aboutus-box">
         <div className="aboutus-header">
           <div>
-            <a href="https://github.com/angelaturi/net-zero" target="_blank">
+            <a href="https://github.com/philowe94/net-zero" target="_blank">
               <GitHubIcon className="github-icon" style={{fontSize: 50}} /> NETZERO 
             </a> was built by the following talented Software Engineers.{" "}
           </div>
